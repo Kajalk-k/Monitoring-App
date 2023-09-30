@@ -55,7 +55,7 @@ Follow these steps to get started with this project:
 4. Deploy your application on Amazon EKS:
 
    ```bash
-   kubectl apply -f kubernetes/deployment.yaml
+   python3 eks.py
    ```
 
 5. Monitor and manage your application using Kubernetes tools and Amazon CloudWatch.
