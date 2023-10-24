@@ -29,7 +29,7 @@ Follow these steps to get started with this project:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/your-monitoring-app.git
+   git clone https://github.com/Kajalk-k/Monitoring-App
    cd your-monitoring-app
    ```
 
